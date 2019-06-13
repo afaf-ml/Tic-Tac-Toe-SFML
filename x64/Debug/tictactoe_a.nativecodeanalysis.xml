@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\</FILEPATH>
+      <FILENAME>tictactoe_a.cpp</FILENAME>
+      <LINE>371</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Index '9' is out of valid index range '0' to '8' for possibly stack allocated buffer 'this-&gt;piece'.</DESCRIPTION>
+    <FUNCTION>Game::newGame</FUNCTION>
+    <DECORATED>?newGame@Game@@QEAAXXZ</DECORATED>
+    <FUNCLINE>365</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

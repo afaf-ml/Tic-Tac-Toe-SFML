@@ -1,0 +1,8 @@
+﻿  RetroXO.cpp
+c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\retroxo.cpp(551): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\retroxo.cpp(566): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\retroxo.cpp(30): warning C4715: 'Game::playBGM': not all control paths return a value
+c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\retroxo.cpp(37): warning C4715: 'Game::playMenu': not all control paths return a value
+c:\users\afaf\documents\visual studio 2015\projects\tictactoe\tictactoe\retroxo.cpp(104): warning C4715: 'Game::checkOption': not all control paths return a value
+  TicTacToe.vcxproj -> C:\Users\Afaf\documents\visual studio 2015\Projects\TicTacToe\x64\Debug\TicTacToe.exe
+  TicTacToe.vcxproj -> C:\Users\Afaf\documents\visual studio 2015\Projects\TicTacToe\x64\Debug\TicTacToe.pdb (Full PDB)
